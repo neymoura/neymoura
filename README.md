@@ -1,5 +1,5 @@
 ### Hello there! 👋 Ney here!
-#### I am a native Android and iOS Developer
+#### I am a native iOS Developer
 
 - 🇧🇷 Living in Brazil
 - 🔭 I’m currently working on [Taller Technologies](https://www.tallertechnologies.com)
